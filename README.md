@@ -1,2 +1,2 @@
 # SocketWebServer
-Web Server implementation using sockets
+Web Server implementation using sockets in Java
