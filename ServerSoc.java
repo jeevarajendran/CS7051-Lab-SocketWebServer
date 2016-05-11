@@ -21,10 +21,10 @@
 		     */
 		         Socket clientSocket;
 			     ServerSoc(Socket clientSocket)
-			         {
-				         this.clientSocket = clientSocket;
-					     }
-					         public static void main(String[] args) {
+			        {
+					this.clientSocket = clientSocket;
+			        }
+				public static void main(String[] args) {
 						         
 							         ServerSocket serSoc = null;
 								   
